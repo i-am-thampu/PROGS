@@ -19,7 +19,7 @@ if(isset($_GET['submit']))
     }
     }
         if($c==0)
-        {echo "$num is a prime bumber";}
+        {echo "$num is a prime number";}
     
     else
     echo"$num is not a prime number";
